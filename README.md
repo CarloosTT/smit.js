@@ -1,0 +1,2 @@
+# smit.js
+my bot
